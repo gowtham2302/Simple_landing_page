@@ -1,0 +1,39 @@
+.box {
+  height: 100vh;
+  /* background-color: #B1D4E0; */
+}
+.box1 {
+  height: 100vh;
+}
+
+.box2 {
+  height: 100vh;
+}
+
+/* .about1{
+  height:150vh;
+} */
+
+.agenda {
+  height: 70vh;
+}
+
+.social {
+  text-decoration: none;
+}
+
+.card {
+  transition: all 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.15);
+}
+
+/* .background-section {
+  background-image: url("https://images.unsplash.com/photo-1554752191-343d87d6c28f?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+} */
